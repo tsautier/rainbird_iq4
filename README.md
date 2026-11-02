@@ -311,8 +311,7 @@ This integration does the same: once a `start_zone` call is accepted by the back
 
 | Model | Firmware | Status |
 |---|---|---|
-| Rain Bird ESP-TM2 | 2.29.0 | ✅ Full support |
-| Rain Bird ESP-TM2 with LNK2 (type 70) | — | ✅ Reported working |
+| Rain Bird ESP-TM2 (controller types 69, 70, 71) | 2.29.0 | ✅ Full support |
 | Rain Bird ESP-ME3 | 3.11.0 | ✅ Full support (requires complete IQ4 web setup) |
 
 Please open an issue if you have a different model and want to help test.
