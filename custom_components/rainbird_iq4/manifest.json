@@ -1,6 +1,9 @@
 {
   "domain": "rainbird_iq4",
   "name": "Rain Bird IQ4",
+  "categories": [
+    "garden_plants"
+  ],
   "codeowners": [
     "@Chapter-322"
   ],
@@ -17,5 +20,5 @@
   "requirements": [
     "curl_cffi>=0.7.0"
   ],
-  "version": "1.10.0"
+  "version": "1.10.1"
 }
