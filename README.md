@@ -1,6 +1,6 @@
 # Rain Bird IQ4 Integration for Home Assistant
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 
 A Home Assistant custom integration for **Rain Bird IQ4** cloud-connected irrigation controllers (ESP-TM2, ESP-ME3 and compatible models).
 
